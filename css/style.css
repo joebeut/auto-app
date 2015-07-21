@@ -1,0 +1,176 @@
+@import url('http://fonts.googleapis.com/css?family=Open+Sans');
+@import url('http://fonts.googleapis.com/css?family=Bitter');
+
+html,
+body {
+   margin:0;
+   padding:0;
+   height:100%;
+   background-color: #eeeeee;
+}
+
+h2 {
+	font-size: 2em;
+}
+
+h3 {
+	font-size: 1.25em;
+}
+
+h4 {
+	font-size: 1em;
+}
+
+h5 {
+	font-size: .85em;
+}
+
+p {
+	font-size: .7em;
+}
+
+input {
+	width: 100%;
+}
+
+a {
+	color: #222222;
+}
+
+td {
+	padding-top: 2em;
+	padding-bottom: 2em;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+#left-bar {
+	background-color: #999999;
+	height: 40em;
+}
+
+.sans {
+	font-family: "Open Sans", sans-serif;
+}
+
+.bitter {
+	font-family: 'Bitter', serif;
+	
+}
+
+.caps {
+	text-transform: uppercase;
+}
+
+.light-grey {
+	color: #999999;
+}
+
+.not-active {
+	color: #999999;
+}
+
+.sans-title {
+	font-family: "Open Sans", sans-serif;
+	font-weight: 900;
+}
+
+.section-header {
+	margin-top: 2.5em;
+}
+
+.input-header {
+	margin-top: 1em;
+	margin-bottom: .15em;
+}
+
+.submit {
+	margin-top: 1.5em;
+	float: right;
+}
+
+.page-button {
+	height: 5em;
+	width: 100%;
+}
+
+.bottom-text {
+	margin-top: 3.6em;
+}
+
+.customer-list {
+	margin-top: 1.5em;
+	background-color: white;
+}
+
+.title-row {
+
+}
+
+.subtitle-row {
+	padding-bottom: 1em;
+	border-bottom: 1px solid #dddddd;
+}
+
+.white-block {
+	background-color: white;
+	margin-top: 0em;
+	padding-top: 3em;
+}
+
+.underline-block {
+	padding-left: 0;
+	padding-right: 0;
+	margin-right: 1em;
+	margin-left: 1em;
+	margin-bottom: 1.5em;
+	border-bottom: #dddddd 1px solid;
+	}
+	.left-item {
+		margin-top: 0;
+		padding-top: 1em;
+		margin-left: 0;
+		padding-left: 0;
+		margin-bottom: 0.25em;
+	}
+	.right-item {
+		margin-top: 0;
+		margin-right: 0;
+		padding-right: 0;
+		margin-bottom: 0.25em;
+
+		text-align: right;
+	}
+
+.white-block-item {
+	background-color: white;
+}
+
+.inner-row {
+	padding-left: 0;
+	padding-right: 0;
+	margin-right: 1em;
+	margin-left: 1em;
+}
+
+.white-block-item h4 {
+	margin-left: 0;
+	padding-left: 0;
+	margin-top: 0.4em;
+	margin-bottom: 0.4em;
+}
+.right-align {
+	text-align: right;
+	margin-right: 0;
+	padding-right: 0;
+}
+
+.add-button {
+	border: #999999 solid 2px;
+	color: #999999;
+	margin-top: 1.5em;
+	text-align: center;
+	padding-left: .25em;
+	padding-right: .25em;
+}
+
