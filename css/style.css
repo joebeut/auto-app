@@ -179,3 +179,18 @@ th {
 	font-weight: bold;
 }
 
+.vbottom {
+	display: inline-block;
+	vertical-align: bottom;
+}
+
+.table-header {
+	font-size: .7em;
+	font-weight: bold;
+}
+
+.inline {
+	display: inline-block;
+	padding-right: 5em;
+}
+
