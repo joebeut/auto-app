@@ -37,7 +37,8 @@ a {
 	color: #222222;
 }
 
-td {
+td,
+th {
 	padding-top: 2em;
 	padding-bottom: 2em;
 	margin-top: 1em;
@@ -172,5 +173,9 @@ td {
 	text-align: center;
 	padding-left: .25em;
 	padding-right: .25em;
+}
+
+.bold {
+	font-weight: bold;
 }
 
